@@ -1,0 +1,6 @@
+github.com/allanpk716/google-geolocate v0.0.0-20210421015208-50a673b945cd h1:c/901vrKl0AhVLOa9nJDTZo9t53am6nZtpOAQkWQ85g=
+github.com/allanpk716/google-geolocate v0.0.0-20210421015208-50a673b945cd/go.mod h1:CUyQIgNYzEHz4rHa1F5DYDx0+bP2G7OqY5IDIvV2yDI=
+github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394 h1:OYA+5W64v3OgClL+IrOD63t4i/RW7RqrAVl9LTZ9UqQ=
+github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394/go.mod h1:Q8n74mJTIgjX4RBBcHnJ05h//6/k6foqmgE45jTQtxg=
+github.com/gocarina/gocsv v0.0.0-20210408192840-02d7211d929d h1:r3mStZSyjKhEcgbJ5xtv7kT5PZw/tDiFBTMgQx2qsXE=
+github.com/gocarina/gocsv v0.0.0-20210408192840-02d7211d929d/go.mod h1:5YoVOkjYAQumqlV356Hj3xeYh4BdZuLE0/nRkf2NKkI=
